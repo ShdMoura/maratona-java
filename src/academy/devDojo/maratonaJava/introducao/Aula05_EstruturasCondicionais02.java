@@ -1,6 +1,6 @@
 package academy.devDojo.maratonaJava.introducao;
 
-public class Aula05_EstruturasCondicionais_Switch {
+public class Aula05_EstruturasCondicionais02 {
     public static void main (String[] args){
         // Exercício switch: Imprima um dia na semana, considerando 1 como domingo
         byte day = 20;
