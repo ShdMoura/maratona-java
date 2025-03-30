@@ -1,4 +1,4 @@
-package academy.devDojo.maratonaJava.introducao;
+package academy.devDojo.maratonaJava.introducao.Aulas05;
 
 public class Aula05_EstruturasCondicionais03 {
         public static void main(String[] args) {
